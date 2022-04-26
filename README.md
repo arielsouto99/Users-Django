@@ -1,8 +1,9 @@
 # Users
 
-‣ Backend: Django (basado en clases)
+> Backend: Django (basado en clases)
 
-‣ Frontend: Foundation
+> Frontend: Foundation
 
-> Todo lo que contiene el Users es altamente escalable.
-> Se hace mucho más incapié en el backend.
+Todo lo que contiene el Users es altamente escalable.
+
+Se hace mucho más incapié en el backend.
